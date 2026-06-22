@@ -1,7 +1,8 @@
 {
   "permissions": {
-    "allow": ["mcp__playwright"
-    
+    "allow": [
+      "mcp__playwright",
+      "Bash(git pull *)"
     ]
   }
 }
